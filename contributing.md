@@ -182,4 +182,110 @@ Implements Change Requests (CRs), review boards, and revision logs to maintain d
 - Review Management: Merge/Pull Requests, Inline Comments, Issue Tracking
 
 
+## Collaboration and Document Control
+- This document presents key insights on how collaboration and document control enhance efficiency, consistency, and traceability in software documentation.
+
+---
+
+### Group-14: Collaboration and Document Control
+| **Name**               | **RegNo**         |
+|-------------------------|------------------|
+| AGUMYA NYSON            | 2023/BSE/005/PS  |
+| OGWAL BILL EDWIN        | 2023/BSE/126/PS  |
+| AMWINE LIAM ABAASA      | 2023/BSE/018/PS  |
+| AYEBARE PATIENCE PRAISE | 2023/BSE/037/PS  |
+| KAMUKAMA SIMON PERTER   | 2023/BSE/0059/PS |
+
+
+---
+
+### Introduction
+**Have you ever seen a file named “final_final_reallyfinal.docx”?**  
+This common scenario illustrates the chaos caused by poor documentation management — multiple editors, no unified version, lost data, and no way to track *who changed what*.
+
+---
+
+### Why Documentation Chaos Matters
+- Multiple editors with no synchronization.  
+- Lost data and duplicated work.  
+- No version tracking or accountability.  
+
+**Solution:**  
+Developers applied engineering principles — *if we can control code, we can control documents.*
+
+---
+
+### What is Collaboration?
+> The process where individuals, teams, or organizations work together, using tools and practices, to build or maintain software.
+
+**Key Features:**
+- Shared goals  
+- Communication and coordination  
+- Knowledge sharing  
+- Leveraging diverse perspectives  
+- Use of tools and best practices  
+- Iterative improvements  
+
+---
+
+### Version Control
+> Imagine constructing a building and realizing you can’t undo a mistake — version control makes “undo” possible in software documentation.
+
+**Types of Version Control Systems**
+| **Category** | **Examples** |
+|---------------|--------------|
+| **Distributed Code VC** | Git, Mercurial (Hg), Fossil, GNU Bazaar |
+| **Data VC** | DVC, Delta Lake, Dolt, Git LFS |
+| **Centralized VC** | SVN, Perforce, ClearCase |
+| **Database VCS** | Flyway, Liquibase |
+
+---
+
+### What is Document Control?
+> The systematic management of an organization's documents, ensuring their accuracy, security, and accessibility throughout their lifecycle—from creation to archiving.
+
+**Why It Matters**
+- Keeps documents accurate, discoverable, and auditable.  
+- Reduces support costs and risks of non-compliance.  
+- Enables traceability: *who changed what and why.*
+
+---
+
+### Models of Document Control
+1. **Cloud Editors:**  
+   - Tools like *Google Docs* and *Office 365* enable real-time collaboration and are user-friendly for non-technical contributors.  
+
+2. **Docs-as-Code:**  
+   - Uses *Markdown + Git* for traceability, continuous integration, and version publishing.  
+
+3. **Hybrid Model:**  
+   - Draft in cloud → convert → finalize in Git for structured workflows.
+
+---
+
+### Document Control vs. Management vs. File Sharing
+| **Aspect** | **Document Control** | **Document Management** | **File Sharing** |
+|-------------|----------------------|--------------------------|------------------|
+| **Focus** | Accuracy & Traceability | Organization & Storage | Simple Access |
+| **Tools** | Git, DVC, Liquibase | SharePoint, Confluence | Google Drive, Dropbox |
+| **Use Case** | Regulated environments, audits | Team collaboration | Quick file exchange |
+
+---
+
+### Key Terms
+- **Version Control:** Tracking and managing changes to documents or code.  
+- **Traceability:** Ability to follow the history of each change.  
+- **Docs-as-Code:** Treating documentation with the same rigor as software code.  
+- **Collaboration Tools:** Systems that enable real-time co-authoring and review.  
+
+---
+
+### Summary
+Collaboration and Document Control are vital for:
+- **Consistency** in team output.  
+- **Accountability** through version tracking.  
+- **Efficiency** in managing updates and reviews.  
+- **Compliance** with organizational standards.  
+
+Together, they transform documentation from chaos into a controlled, auditable, and collaborative process.
 
