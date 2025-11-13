@@ -55,7 +55,41 @@ Visuals convert complex concepts into clear, structured, and digestible informat
 - Challenges of paper-based vs. online docs.
 - Overview of the documentation lifecycle
 
+  #### Group-6: Software standards
+| **Name**               | **RegNo**         |
+|-------------------------|------------------|
+| Atukwase Godson    | 2023/BSE/032/PS  |
+| Ataho Ronnie         | 2023/BSE/028/PS  |
+| Mubangizi Ambrose | 2023/BSE/084/PS  |
+| Mutesi Flavia Kirabo       | 2023/BSE/095/PS  |
+| Mucureezi Oliviah        | 2023/BSE/085/PS  |
 
+### Key Aspects
+
+Our presentation focused on Software Standards, which are formal guidelines and best practices that ensure software is developed with quality, reliability, and consistency.
+Key international bodies such as ISO, IEC, and IEEE define these standards.
+
+## Main Categories
+
+- Product Standards: Define quality and performance benchmarks (e.g., ISO/IEC 25010).
+
+- Process Standards: Outline development life cycle practices (e.g., ISO/IEC 12207).
+
+- Coding Standards: Promote consistent, maintainable code (e.g., IEEE 730).
+
+- Documentation Standards: Ensure clear and complete documentation (e.g., IEEE 1063).
+
+- Testing Standards: Provide structured testing frameworks (e.g., ISO/IEC/IEEE 29119).
+
+## Importance
+
+- Software standards enhance:
+
+- Quality assurance and interoperability
+
+- Maintainability and team communication
+
+- Safety and security through compliance and best practices
 
 
 
